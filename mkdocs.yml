@@ -1,4 +1,8 @@
+site_name: Cramework
+site_url: https://hattolo.github.io/cramework
+
 theme:
   name: material
 
-site_name: Cramework
+nav:
+  - Home: index.md
